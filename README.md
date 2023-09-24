@@ -15,3 +15,5 @@ Setup and code for the Stream-lit app can be found in the file "app.py".
 Final UI:
 
 
+![image](https://github.com/Afrid1045/Car_Price_Prediction/assets/113804196/ef8b2cd2-a015-4b68-91b3-97551b75a540)![image](https://github.com/Afrid1045/Car_Price_Prediction/assets/113804196/0459a23b-6c3d-4f9c-b3ec-ca9383d8faa1)
+
